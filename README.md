@@ -7,7 +7,7 @@ Este documento describe la estructura de la base de datos para el sistema de ges
 Aquí puedes insertar la imagen de tu Diagrama Entidad-Relación (DER). Este diagrama proporcionará una representación visual clara de las tablas y sus conexiones.
 
 
-[modelo_ER.png]
+![Diagrama Entidad-Relación](modelo_ER.png)
 
 
 ## Descripción de las Tablas y sus Relaciones
